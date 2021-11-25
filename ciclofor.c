@@ -3,7 +3,7 @@
 int main(){
   int i = 0;
   
-  for(int i = 0 ; i < 5 ; i++ ){
+  for(int i = 0 ; i < 4 ; i++ ){
      printf("Hola mundo");
   }
 }
